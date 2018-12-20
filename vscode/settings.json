@@ -1,0 +1,23 @@
+{
+    "blade.format.enable": true,
+    "css.validate": false,
+    "csscomb.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 21,
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": true,
+    "eslint.autoFixOnSave": true,
+    "explorer.autoReveal": false,
+    "html.format.maxPreserveNewLines": 2,
+    "php.suggest.basic": false,
+    "php.validate.executablePath": "/usr/local/opt/php@7.2/bin/php",
+    "search.exclude": {
+      "public": true
+    },
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Ayu Mirage",
+    "workbench.iconTheme": "ayu",
+    "workbench.statusBar.feedback.visible": false
+  }

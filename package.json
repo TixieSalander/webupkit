@@ -1,0 +1,19 @@
+{
+  "name": "webupkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agence-webup/webupkit.git"
+  },
+  "author": "robin@agence-webup.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agence-webup/webupkit/issues"
+  },
+  "homepage": "https://github.com/agence-webup/webupkit#readme"
+}
