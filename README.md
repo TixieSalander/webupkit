@@ -1,4 +1,4 @@
-## VScode plugins
+## VSCode plugins
 
 * https://github.com/mrmlnc/vscode-csscomb
 * https://github.com/Microsoft/vscode-eslint
