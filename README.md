@@ -13,7 +13,7 @@
 
 ## ESLint
 
-### no-unusued-vars with class
+### no-unusued-vars with global vars
 
 When you define a class used in another file, you need to set the /* exported variableName */ comment block to indicate that this variable is being exported and therefore should not be considered unused.
 
